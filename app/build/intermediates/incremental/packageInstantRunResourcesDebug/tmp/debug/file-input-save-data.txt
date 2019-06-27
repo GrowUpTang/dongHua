@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jun 27 14:51:21 CST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.path=area_data.xml
+0.set=ASSET
+count=1

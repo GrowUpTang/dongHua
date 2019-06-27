@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\anim_set_dialog_share_exit.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\anim\\set_dialog_share_exit.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\anim_set_dialog_share_enter.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\anim\\set_dialog_share_enter.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_layer_wheel_val.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\drawable-hdpi\\layer_wheel_val.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_area_chose.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\layout\\dialog_area_chose.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_left2right.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\anim\\in_left2right.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\layout_neirong.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\layout\\neirong.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\layout_donghua.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\layout\\donghua.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_layer_wheel_bg.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\drawable-hdpi\\layer_wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_righttoleft.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\anim\\out_righttoleft.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_lefttoright.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\anim\\in_lefttoright.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\anim_alpha.xml.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail.png.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\drawable-hdpi\\detail.png"
+    },
+    {
+        "merged": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\SoftWare\\WorkSpace\\AndroidStudioProjects\\DongHua\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
